@@ -16,13 +16,13 @@
 确保你的系统已安装Python 3.8+，然后安装项目依赖：
 
 ```bash
-pip install -e .
+poetry install
 ```
 
 或者直接安装依赖：
 
 ```bash
-pip install gradio markdown2 weasyprint tqdm pandas
+poetry add gradio markdown2 weasyprint tqdm pandas
 ```
 
 ## 使用方法
