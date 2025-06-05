@@ -33,12 +33,6 @@ poetry add gradio markdown2 weasyprint tqdm pandas
 python main.py
 ```
 
-或安装后使用命令：
-
-```bash
-json-processor-web
-```
-
 然后在浏览器中访问 `http://localhost:8000`
 
 ### 2. 命令行使用
